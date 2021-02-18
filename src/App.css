@@ -32,37 +32,3 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
 }
-
-img{
-  width: 90%;
-  border: 5px solid rgb(32, 21, 0);
-}
-
-p {
-  font-size: 1.6rem;
-  margin: 4% 8%;
-  color: skyblue;
-  font-family:'Josefin Sans', sans-serif;
-  font-weight: 300;
-}
-
-h1 {
-  font-size: 3rem;
-  color: rgb(32, 21, 0);
-  font-family: 'Josefin Sans', sans-serif;
-  font-weight: 700;
-}
-
-h2 {
-  font-size: 2rem;
-  font-family: 'Josefin Sans', sans-serif;
-  font-weight: 700;
-  color: white;
-}
-
-h3{
-  font-size: 2rem;
-  font-family: 'Josefin Sans', sans-serif;
-  font-weight: 700;
-  color: white;
-}
